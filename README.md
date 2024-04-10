@@ -1,5 +1,6 @@
 👋 Hi, I’m @v-nvtsk
 
+# Languages and tools
 ![technologies](https://github.com/v-nvtsk/v-nvtsk/assets/138329268/02c2ee88-5bb3-4613-9fb4-bcd8c732cf9d)
 
 # My projects:
