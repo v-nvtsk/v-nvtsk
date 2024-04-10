@@ -9,7 +9,7 @@
 [mod-studio-landing](https://github.com/v-nvtsk/mod-studio-landing)  
 
 ## JS (TS)
-[Life Game](https://github.com/v-nvtsk/life-game)
+[Life Game](https://github.com/v-nvtsk/life-game)  
 [Templater](https://github.com/v-nvtsk/templater)  
 
 ## React
@@ -22,7 +22,7 @@
 [nodejs CLI app - deploy to gh-pages](https://github.com/v-nvtsk/otus-jsbasic-dz50-nodejs)  
 
 ## All repos
-You can find all repos [here](https://github.com/v-nvtsk?tab=repositories)
+You can find all repos [here](https://github.com/v-nvtsk?tab=repositories)  
 
 <!---
 v-nvtsk/v-nvtsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
