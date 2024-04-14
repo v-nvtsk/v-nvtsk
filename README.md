@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m @v-nvtsk
----
+
 ## I'm a junior web-developer
 
 - 👨‍💻 I’m currently working on web development technologies like TypeScript, React etc.
