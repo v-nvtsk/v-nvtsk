@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m @v-nvtsk
+# 👋 Hi there, I’m @v-nvtsk 
 
 ## I'm a junior web-developer
 
@@ -30,6 +30,8 @@
 
 ### All repos
 You can find all repos [here](https://github.com/v-nvtsk?tab=repositories)  
+
+![Codewars](https://github.r2v.ch/codewars?user=v-nvtsk)
 
 <!---
 v-nvtsk/v-nvtsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
