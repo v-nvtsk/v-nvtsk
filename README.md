@@ -31,7 +31,11 @@
 ### All repos
 You can find all repos [here](https://github.com/v-nvtsk?tab=repositories)  
 
-![Codewars](https://github.r2v.ch/codewars?user=v-nvtsk)
+<!---
+![Codewars](https://github.r2v.ch/codewars?user=v-nvtsk)  
+--->
+
+[![](https://www.codewars.com/users/v-nvtsk/badges/small)](https://www.codewars.com/users/v-nvtsk/)
 
 <!---
 v-nvtsk/v-nvtsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
