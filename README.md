@@ -11,18 +11,18 @@
 
 ## My projects:
 
-### HTML, CSS
-[covid-landing](https://github.com/v-nvtsk/covid-landing)  
-[mod-studio-landing](https://github.com/v-nvtsk/mod-studio-landing)  
+### React
+[Calendar app* (in development) ](https://github.com/v-nvtsk/otus-jsbasic-final-project)  
+[Expenses app](https://github.com/v-nvtsk/expenses-app)  
+[React component library](https://github.com/v-nvtsk/react-component-lib)  
 
 ### JS (TS)
 [Life Game](https://github.com/v-nvtsk/life-game)  
 [Templater](https://github.com/v-nvtsk/templater)  
 
-### React
-[Calendar app* (in development) ](https://github.com/v-nvtsk/otus-jsbasic-final-project)  
-[Expenses app](https://github.com/v-nvtsk/expenses-app)  
-[React component library](https://github.com/v-nvtsk/react-component-lib)  
+### HTML, CSS
+[covid-landing](https://github.com/v-nvtsk/covid-landing)  
+[mod-studio-landing](https://github.com/v-nvtsk/mod-studio-landing)  
 
 ### Node.js
 [npm package - router library](https://github.com/v-nvtsk/npm-package-routelib)  
