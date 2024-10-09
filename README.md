@@ -12,6 +12,7 @@
 ## My projects:
 
 ### React
+[My CV](https://v-nvtsk.github.io)  
 [Calendar app* (in development) ](https://github.com/v-nvtsk/otus-jsbasic-final-project)  
 [Expenses app](https://github.com/v-nvtsk/expenses-app)  
 [React component library](https://github.com/v-nvtsk/react-component-lib)  
