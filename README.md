@@ -2,9 +2,9 @@
 
 ## I'm a junior web-developer
 
-👨‍💻 Currently focused on web development using technologies like TypeScript, React, and Redux.
-📚 Continuously expanding my knowledge in both Frontend and Backend development, including JavaScript, Node.js, and modern frameworks.
-💪🏼 Future goals: Master fullstack development, contribute to open-source projects, and keep pushing the boundaries with new and innovative solutions.
+👨‍💻 Currently focused on web development using technologies like TypeScript, React, and Redux.  
+📚 Continuously expanding my knowledge in both Frontend and Backend development, including JavaScript, Node.js, and modern frameworks.  
+💪🏼 Future goals: Master fullstack development, contribute to open-source projects, and keep pushing the boundaries with new and innovative solutions.  
 
 ## Languages and tools
 ![technologies](https://github.com/v-nvtsk/v-nvtsk/assets/138329268/02c2ee88-5bb3-4613-9fb4-bcd8c732cf9d)
