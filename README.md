@@ -11,6 +11,10 @@
 
 ## My projects:
 
+### Fullstack
+[BleedCode](https://github.com/v-nvtsk/bleedcode-frontend) - LeetCode analogue to test and assess skills solving algorithmic tasks.  
+[BleedCode Backend](https://github.com/v-nvtsk/nestjs-rest-api) - Nest.js server for Bleedcode 
+
 ### React
 [My CV](https://v-nvtsk.github.io)  
 [Calendar app* (in development) ](https://github.com/v-nvtsk/otus-jsbasic-final-project)  
