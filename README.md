@@ -1,10 +1,18 @@
-# 👋 Hi there, I’m @v-nvtsk 
+# 👋 Hi there, I'm @v-nvtsk 
 
-## I'm a junior web-developer
+## Frontend Developer with Fullstack Aspirations
 
-👨‍💻 Currently focused on web development using technologies like TypeScript, React, and Redux.  
-📚 Continuously expanding my knowledge in both Frontend and Backend development, including JavaScript, Node.js, and modern frameworks.  
-💪🏼 Future goals: Master fullstack development, contribute to open-source projects, and keep pushing the boundaries with new and innovative solutions.  
+🚀 Core Stack: **React, TypeScript, Redux Toolkit**  
+🎨 UI Mastery: **Material UI, Tailwind, SCSS**  
+⚡ Performance: **Lazy loading, memoization, Web Vitals**  
+🔧 Tooling: **Webpack, Vite, Jest, Testing Library**  
+
+🌱 Currently growing:  
+- **NestJS** for backend development  
+- **Microservices** architecture  
+- **Database optimization**  
+
+💡 Passionate about clean code and pixel-perfect UIs!
 
 ## Languages and tools
 ![technologies](https://github.com/v-nvtsk/v-nvtsk/assets/138329268/02c2ee88-5bb3-4613-9fb4-bcd8c732cf9d)
@@ -12,8 +20,13 @@
 ## My projects:
 
 ### Fullstack
-[Site-time tracker(https://github.com/v-nvtsk/time-tracker) - Fullstack application with chrome-extension tracks time spend on sites.
-[BleedCode](https://github.com/v-nvtsk/bleedcode-frontend) - LeetCode analogue to test and assess skills solving algorithmic tasks.  
+[Site-time tracker](https://github.com/v-nvtsk/time-tracker) - Fullstack application with chrome-extension tracks time spend on sites.  
+
+#### BleedCode
+fullstack application with 3 frontend parts and Nestjs backend  
+[BleedCode](https://github.com/v-nvtsk/bleedcode-frontend) - LeetCode analogue to test and assess skills solving algorithmic tasks.  (VUE)  
+[BleedCode CMS](https://github.com/v-nvtsk/bleedcode-cms) - LeetCode analogue to test and assess skills solving algorithmic tasks.  (Angular)  
+[BleedCode Interview](https://github.com/v-nvtsk/bleedcode-cms) - LeetCode analogue to test and assess skills solving algorithmic tasks.  (Angular)  
 [BleedCode Backend](https://github.com/v-nvtsk/nestjs-rest-api) - Nest.js server for Bleedcode 
 
 ### React
