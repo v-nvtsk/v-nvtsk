@@ -12,6 +12,7 @@
 ## My projects:
 
 ### Fullstack
+[Site-time tracker(https://github.com/v-nvtsk/time-tracker) - Fullstack application with chrome-extension tracks time spend on sites.
 [BleedCode](https://github.com/v-nvtsk/bleedcode-frontend) - LeetCode analogue to test and assess skills solving algorithmic tasks.  
 [BleedCode Backend](https://github.com/v-nvtsk/nestjs-rest-api) - Nest.js server for Bleedcode 
 
